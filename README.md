@@ -1,8 +1,6 @@
 # web-crawling
 --------------
-web crawling practice
-
-
+web crawling practice  
 ## Setting
 --------------
 * pycharm
