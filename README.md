@@ -3,7 +3,6 @@
 web crawling practice  
 
 ## Setting
---------------
 * pycharm
 * import requests, selenium
 
